@@ -1,0 +1,20 @@
+{
+  "name": "HCDC Medical Waste Management System",
+  "short_name": "HCDC MWM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Z61XdX6q/toxic-waste.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/Z61XdX6q/toxic-waste.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
